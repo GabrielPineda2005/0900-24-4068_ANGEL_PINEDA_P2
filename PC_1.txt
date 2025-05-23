@@ -1,0 +1,32 @@
+ID: 1
+Descripción: problemas en puerto usb
+Fecha: 20-05-2025
+Nombre del Cliente: Kevinth
+Correo: kpalma@vigua.com.gt
+Teléfono: 12345678
+
+-----------------------------
+===== ETAPA DE REPARACIÓN =====
+Nombre del reparador: Gabriel
+Descripción: Se cambio el puerto
+Fecha: 20-05-2025
+
+-----------------------------
+===== RETORNO A REPARACIÓN DESDE CALIDAD =====
+Fecha de retorno: 20-05-2025
+
+-----------------------------
+===== RETORNO A REPARACIÓN DESDE CALIDAD =====
+Fecha de retorno: 21-05-2025
+
+-----------------------------
+===== ETAPA DE ENTREGA =====
+Fecha de entrega: 21-05-2025
+
+-----------------------------
+===== ETAPA DE ENTREGA =====
+Fecha de entrega: 21-05-2025
+
+-----------------------------
+===== ETAPA DE ENTREGA =====
+Fecha de entrega: 21-05-2025
