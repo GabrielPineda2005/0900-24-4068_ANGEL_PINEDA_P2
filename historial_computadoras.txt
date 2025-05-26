@@ -1,0 +1,24 @@
+=== Registro inicial ===
+Service Tag: abc-123
+Modelo: pavilio2003
+Cliente: javier
+Correo: javier849@gmail.com
+Teléfono: 12345678
+Descripción del problema: error en lector usb
+Fecha de recepción: 2025-05-25
+----------------------------
+[2025-05-25] [abc-123] Recepcionada y encolada a inspección.
+[2025-05-25] [abc-123] Inspección: Reparación necesaria. Enviada a reparación.
+[2025-05-25] [abc-123] Reparación: Reparación realizada por gabriel. Proceso: se cambio el puerto usb. Enviada a control de calidad el: 2025-05-25
+=== Registro inicial ===
+Service Tag: hj34
+Modelo: msi12345
+Cliente: gabriel
+Correo: gpineda@tpr.com.gt
+Teléfono: 12345
+Descripción del problema: error en el mousepad
+Fecha de recepción: 2025-05-25
+----------------------------
+[2025-05-25] [hj34] Recepcionada y encolada a inspección.
+[2025-05-25] [abc-123] Control de calidad: Aprobada. Enviada a entrega el: 2025-05-25
+[2025-05-25] [abc-123] Entrega: Computadora entregada al cliente el: 2025-05-25
