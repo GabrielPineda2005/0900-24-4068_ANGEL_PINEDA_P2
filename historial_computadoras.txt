@@ -1,0 +1,46 @@
+=== Registro inicial ===
+Service Tag: abc-123
+Modelo: pavilio2003
+Cliente: javier
+Correo: javier849@gmail.com
+Tel閒ono: 12345678
+Descripci髇 del problema: error en lector usb
+Fecha de recepci髇: 2025-05-25
+----------------------------
+[2025-05-25] [abc-123] Recepcionada y encolada a inspecci髇.
+[2025-05-25] [abc-123] Inspecci髇: Reparaci髇 necesaria. Enviada a reparaci髇.
+[2025-05-25] [abc-123] Reparaci髇: Reparaci髇 realizada por gabriel. Proceso: se cambio el puerto usb. Enviada a control de calidad el: 2025-05-25
+=== Registro inicial ===
+Service Tag: hj34
+Modelo: msi12345
+Cliente: gabriel
+Correo: gpineda@tpr.com.gt
+Tel閒ono: 12345
+Descripci髇 del problema: error en el mousepad
+Fecha de recepci髇: 2025-05-25
+----------------------------
+[2025-05-25] [hj34] Recepcionada y encolada a inspecci髇.
+[2025-05-25] [abc-123] Control de calidad: Aprobada. Enviada a entrega el: 2025-05-25
+[2025-05-25] [abc-123] Entrega: Computadora entregada al cliente el: 2025-05-25
+=== Registro inicial ===
+Service Tag: hgb-897
+Modelo: 2003
+Cliente: diego
+Correo: dmonterroso89@miumg.edu.gt
+Tel茅fono: 
+Descripci贸n del problema: no funciona pantalla
+Fecha de recepci贸n: 2025-05-30
+----------------------------
+[2025-05-30] [hgb-897] Recepcionada y encolada a inspecci贸n.
+[2025-05-30] [hgb-897] Inspecci贸n: Reparaci贸n necesaria. Enviada a reparaci贸n el: 2025-05-30
+=== Registro inicial ===
+Service Tag: ufgt-1234
+Modelo: r
+Cliente: jenner
+Correo: 1234@gmail.com
+Tel茅fono: 1234567
+Descripci贸n del problema: pantalla rota
+Fecha de recepci贸n: 2025-05-30
+----------------------------
+[2025-05-30] [ufgt-1234] Recepcionada y encolada a inspecci贸n.
+[30-05-2025] [hj34] Inspecci贸n: Reparaci贸n necesaria. Enviada a reparaci贸n.

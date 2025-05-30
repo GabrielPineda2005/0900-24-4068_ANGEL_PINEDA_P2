@@ -1,0 +1,6 @@
+ID: 2
+Descripción: PROBLEMAS EN EL USB
+Fecha: 24-05-2025
+Nombre del Cliente: MANUELANGAS
+Correo: MANUELANGAS@MIUMG.EDU.GT
+Teléfono: 12345678
